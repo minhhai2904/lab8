@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/b2_itemMenuNavHome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="shop" />
+    <item        android:id="@+id/b2_itemMenuNavNofi"
+        android:icon="@drawable/baseline_notifications_none_24"
+
+        android:title="gift" />
+    <item        android:id="@+id/b2_itemMenuNavSearch"
+        android:icon="@drawable/baseline_search_24"
+
+        android:title="Item" />
+    <item        android:id="@+id/b2_itemMenuNavCf"
+        android:icon="@drawable/baseline_local_cafe_24"
+
+        android:title="Item" />
+</menu>
